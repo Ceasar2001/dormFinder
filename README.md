@@ -4,9 +4,9 @@ This is a [Next.js](https://nextjs.org) project using [`create-next-app`](https:
 - First clone the repository
 - cd to the directory of the repository
 - run the following command 
-  # npm install 
+  ### npm install 
   or
-  # npm i
+  ### npm i
 
 - Then to run the development server:
 
@@ -23,7 +23,9 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-# this project is created using NextJs Framework
-# and design using Tailwind Css
-# the icons i used for this project is from 
+## this project is created using NextJs Framework
+## and design using Tailwind Css
+## the icons i used for this project is from 
  - https://www.npmjs.com/package/react-icons
+
+
