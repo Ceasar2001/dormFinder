@@ -6,6 +6,7 @@ import LocationProperties from './LocationProperties/LocationProperties'
 import HouseFeature from './HouseFeature/HouseFeature'
 import Reviews from './Reviews/Reviews';
 import Blog from './Blog/Blog'
+import ScrollTop from '../Helper/ScrollTop'
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
       <HouseFeature />
       <Reviews />
       <Blog />
+      <ScrollTop />
     </div>
   )
 }

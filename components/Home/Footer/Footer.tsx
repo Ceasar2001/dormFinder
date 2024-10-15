@@ -29,7 +29,35 @@ const Footer = () => {
                 <FaInstagram className='w-6 h-6 text-pink-600'/>
             </div>
             </div>
+            {/* 2nd footer */}
+            <div className="md:mx-auto">
+                <h1 className="footer__heading">Popular Search</h1>
+                <p className="footer__link">Boarding House Long Term</p>
+                <p className="footer__link">Boarding House Short Term</p>
+                <p className="footer__link">Dormitory Long Term</p>
+                <p className="footer__link">Dormitory Short Term</p>
+            </div>
+            {/* 3rd footer */}
+            <div className="lg:mx-auto">
+                <h1 className="footer__heading">Quick Link</h1>
+                <p className="footer__link">Terms of use</p>
+                <p className="footer__link">Privacy Policies</p>
+                <p className="footer__link">Pricing Plan</p>
+                <p className="footer__link">Our Services</p>
+                <p className="footer__link">Contact Support</p>
+                <p className="footer__link">FAQs</p>
+            </div>
+            {/* 4th footer */}
+            <div className="md:mx-auto">
+                <h1 className="footer__heading">Discover</h1>
+                <p className="footer__link">Liboon</p>
+                <p className="footer__link">Villa Paraeso</p>
+                <p className="footer__link">For Boys only</p>
+                <p className="footer__link">For Girls only</p>
+                <p className="footer__link">Mixed</p>
+            </div>
         </div>
+        <p className="text-center mt-4 text-base text-white opacity-70">Developed By Group 4 | 2024</p>
     </div>
   )
 }
