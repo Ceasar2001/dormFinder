@@ -39,8 +39,8 @@ const Nav = ({ openNav } : Props ) => {
                     DormFinder
                 </h1>
             </div>
+            
             {/* navlinks */}
-
             <div className='lg:flex items-center space-x-14 text-white hidden'>
                     {navLinks.map((navlink) => {
                         return (
